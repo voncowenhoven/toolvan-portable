@@ -1,0 +1,1 @@
+if (global.playstate != PlayState.GAME) exit;

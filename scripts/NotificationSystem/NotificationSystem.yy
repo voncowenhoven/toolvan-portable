@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"NotificationSystem",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"NotificationSystem",
+  "parent":{
+    "name":"ThirdParty",
+    "path":"folders/ThirdParty.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

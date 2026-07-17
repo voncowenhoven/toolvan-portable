@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MapThing",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MapThing",
+  "parent":{
+    "name":"MapThing",
+    "path":"folders/Scripts/MapThing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

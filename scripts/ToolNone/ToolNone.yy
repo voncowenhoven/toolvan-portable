@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ToolNone",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ToolNone",
+  "parent":{
+    "name":"Toolvan",
+    "path":"folders/Scripts/Toolvan.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"cowdmc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cowdmc",
+  "parent":{
+    "name":"ThirdParty",
+    "path":"folders/ThirdParty.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

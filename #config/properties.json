@@ -1,0 +1,8 @@
+{
+    "linterPrefs":{
+        "noSingleEquals":true,
+        "requireFields":true,
+        "requireParentheses":true,
+        "requireSemicolons":true
+    }
+}

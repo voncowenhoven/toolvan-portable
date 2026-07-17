@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ToolInstances",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ToolInstances",
+  "parent":{
+    "name":"Toolvan",
+    "path":"folders/Scripts/Toolvan.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
