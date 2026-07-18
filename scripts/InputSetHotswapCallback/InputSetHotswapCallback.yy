@@ -6,7 +6,7 @@
   "name":"InputSetHotswapCallback",
   "parent":{
     "name":"Hotswap",
-    "path":"folders/ThirdParty/Input/Hotswap.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/Hotswap.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

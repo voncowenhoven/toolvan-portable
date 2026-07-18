@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Tilesets",
-    "path":"folders/Sprites/Editor/Tilesets.yy",
+    "path":"folders/toolvan-portable/Sprites/Editor/Tilesets.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

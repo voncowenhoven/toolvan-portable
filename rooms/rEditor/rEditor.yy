@@ -17,7 +17,7 @@
   "name":"rEditor",
   "parent":{
     "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "path":"folders/toolvan-portable/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

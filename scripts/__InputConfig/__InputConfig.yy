@@ -6,7 +6,7 @@
   "name":"__InputConfig",
   "parent":{
     "name":"Config",
-    "path":"folders/ThirdParty/Input/Config.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/Config.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

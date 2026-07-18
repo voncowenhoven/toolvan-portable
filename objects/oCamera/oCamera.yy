@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Camera",
-    "path":"folders/Objects/Camera.yy",
+    "path":"folders/toolvan-portable/Objects/Camera.yy",
   },
   "parentObjectId":null,
   "persistent":false,

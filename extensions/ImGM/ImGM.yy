@@ -488,7 +488,7 @@
   "packageId":"",
   "parent":{
     "name":"Extensions",
-    "path":"folders/ThirdParty/ImGM/Extensions.yy",
+    "path":"folders/toolvan-portable/ThirdParty/ImGM/Extensions.yy",
   },
   "productId":"",
   "resourceType":"GMExtension",

@@ -120,7 +120,7 @@
   "name":"FontEditorText",
   "parent":{
     "name":"Fonts",
-    "path":"folders/Fonts.yy",
+    "path":"folders/toolvan-portable/Fonts.yy",
   },
   "pointRounding":0,
   "ranges":[

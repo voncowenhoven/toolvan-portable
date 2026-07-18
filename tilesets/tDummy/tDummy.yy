@@ -13,7 +13,7 @@
   "out_tilevborder":2,
   "parent":{
     "name":"Tile Sets",
-    "path":"folders/Tile Sets.yy",
+    "path":"folders/toolvan-portable/Tile Sets.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",

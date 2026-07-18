@@ -6,7 +6,7 @@
   "name":"InputPartyGetParams",
   "parent":{
     "name":"Party Multiplayer",
-    "path":"folders/ThirdParty/Input Plug-Ins/Party Multiplayer.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input Plug-Ins/Party Multiplayer.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

@@ -6,7 +6,7 @@
   "name":"__InputIconConfigPlayStation",
   "parent":{
     "name":"Config",
-    "path":"folders/ThirdParty/Input Plug-Ins/Binding Icons/Config.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input Plug-Ins/Binding Icons/Config.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

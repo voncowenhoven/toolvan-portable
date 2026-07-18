@@ -2130,14 +2130,14 @@
   "name":"FontDialogue",
   "parent":{
     "name":"Fonts",
-    "path":"folders/Fonts.yy",
+    "path":"folders/toolvan-portable/Fonts.yy",
   },
   "pointRounding":0,
   "ranges":[
     {"lower":32,"upper":127,},
     {"lower":9647,"upper":9647,},
   ],
-  "regenerateBitmap":true,
+  "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
   "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)",

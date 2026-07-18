@@ -6,7 +6,7 @@
   "name":"__InputMotionSystem",
   "parent":{
     "name":"(System)",
-    "path":"folders/ThirdParty/Input Plug-Ins/Gyro & Motion/(System).yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input Plug-Ins/Gyro & Motion/(System).yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

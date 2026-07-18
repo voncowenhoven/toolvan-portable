@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"MapThing",
-    "path":"folders/Objects/MapThing.yy",
+    "path":"folders/toolvan-portable/Objects/MapThing.yy",
   },
   "parentObjectId":null,
   "persistent":false,

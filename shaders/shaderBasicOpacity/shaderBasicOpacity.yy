@@ -4,7 +4,7 @@
   "name":"shaderBasicOpacity",
   "parent":{
     "name":"Shaders",
-    "path":"folders/Shaders.yy",
+    "path":"folders/toolvan-portable/Shaders.yy",
   },
   "resourceType":"GMShader",
   "resourceVersion":"2.0",

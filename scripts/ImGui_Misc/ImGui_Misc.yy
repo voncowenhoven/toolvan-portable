@@ -6,7 +6,7 @@
   "name":"ImGui_Misc",
   "parent":{
     "name":"ImGui",
-    "path":"folders/ThirdParty/ImGM/Scripts/ImGui.yy",
+    "path":"folders/toolvan-portable/ThirdParty/ImGM/Scripts/ImGui.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

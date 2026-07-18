@@ -6,7 +6,7 @@
   "name":"InputIconGetDirect",
   "parent":{
     "name":"Binding Icons",
-    "path":"folders/ThirdParty/Input Plug-Ins/Binding Icons.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input Plug-Ins/Binding Icons.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

@@ -6,7 +6,7 @@
   "name":"InputLast",
   "parent":{
     "name":"Many",
-    "path":"folders/ThirdParty/Input/Checkers/Many.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/Checkers/Many.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

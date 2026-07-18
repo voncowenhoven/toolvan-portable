@@ -6,7 +6,7 @@
   "name":"__ImGM",
   "parent":{
     "name":"Scripts",
-    "path":"folders/ThirdParty/ImGM/Scripts.yy",
+    "path":"folders/toolvan-portable/ThirdParty/ImGM/Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

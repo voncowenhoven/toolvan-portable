@@ -1,4 +1,4 @@
-if (room == rEditor) {
+if (room == global.editorRoom) {
 	playstate_change(PlayState.EDITOR);
 	instance_create_layer(0, 0, "Instances", oCamera);
 	

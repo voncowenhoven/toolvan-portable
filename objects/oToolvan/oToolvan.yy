@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Editor",
-    "path":"folders/Objects/Editor.yy",
+    "path":"folders/toolvan-portable/Objects/Editor.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -6,7 +6,7 @@
   "name":"InputMotionGetDirect",
   "parent":{
     "name":"Gyro & Motion",
-    "path":"folders/ThirdParty/Input Plug-Ins/Gyro & Motion.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input Plug-Ins/Gyro & Motion.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

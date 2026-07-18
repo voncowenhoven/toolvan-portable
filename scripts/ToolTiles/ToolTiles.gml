@@ -1,5 +1,3 @@
-#macro TILE_SIZE 96
-
 function ToolTiles(_level) constructor {
 	level = _level;
 	
@@ -87,7 +85,7 @@ function ToolTiles(_level) constructor {
 	tilesetSpr = -1;
 	tilesetSprFrames = -1;
 	tilesetInfo = undefined;
-	tileSize = TILE_SIZE;
+	tileSize = global.tileSize;
 	tileCount = 0;
 	tileIndexCurrent = 5;
 	tileIndexMin = 0;

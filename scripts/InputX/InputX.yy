@@ -6,7 +6,7 @@
   "name":"InputX",
   "parent":{
     "name":"Clusters",
-    "path":"folders/ThirdParty/Input/Checkers/Clusters.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/Checkers/Clusters.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

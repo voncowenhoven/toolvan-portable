@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Dev",
-    "path":"folders/Objects/Dev.yy",
+    "path":"folders/toolvan-portable/Objects/Dev.yy",
   },
   "parentObjectId":null,
   "persistent":true,

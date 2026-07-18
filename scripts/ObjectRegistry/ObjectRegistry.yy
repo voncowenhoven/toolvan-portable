@@ -6,7 +6,7 @@
   "name":"ObjectRegistry",
   "parent":{
     "name":"Toolvan",
-    "path":"folders/Scripts/Toolvan.yy",
+    "path":"folders/toolvan-portable/Scripts/Toolvan.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

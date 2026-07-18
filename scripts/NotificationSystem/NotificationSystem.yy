@@ -6,7 +6,7 @@
   "name":"NotificationSystem",
   "parent":{
     "name":"ThirdParty",
-    "path":"folders/ThirdParty.yy",
+    "path":"folders/toolvan-portable/ThirdParty.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

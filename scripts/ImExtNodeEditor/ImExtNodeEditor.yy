@@ -6,7 +6,7 @@
   "name":"ImExtNodeEditor",
   "parent":{
     "name":"ImExt",
-    "path":"folders/ThirdParty/ImGM/Scripts/ImExt.yy",
+    "path":"folders/toolvan-portable/ThirdParty/ImGM/Scripts/ImExt.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

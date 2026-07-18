@@ -6,7 +6,7 @@
   "name":"InputVerbGetExportName",
   "parent":{
     "name":"Verb Interaction",
-    "path":"folders/ThirdParty/Input/Verb Interaction.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/Verb Interaction.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

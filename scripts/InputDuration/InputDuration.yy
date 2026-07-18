@@ -6,7 +6,7 @@
   "name":"InputDuration",
   "parent":{
     "name":"Advanced",
-    "path":"folders/ThirdParty/Input/Checkers/Advanced.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/Checkers/Advanced.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

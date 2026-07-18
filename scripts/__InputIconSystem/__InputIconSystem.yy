@@ -6,7 +6,7 @@
   "name":"__InputIconSystem",
   "parent":{
     "name":"(System)",
-    "path":"folders/ThirdParty/Input Plug-Ins/Binding Icons/(System).yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input Plug-Ins/Binding Icons/(System).yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

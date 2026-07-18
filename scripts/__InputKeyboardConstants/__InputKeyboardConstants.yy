@@ -6,7 +6,7 @@
   "name":"__InputKeyboardConstants",
   "parent":{
     "name":"Input",
-    "path":"folders/ThirdParty/Input.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

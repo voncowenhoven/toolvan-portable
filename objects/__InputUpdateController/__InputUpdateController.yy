@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"(System)",
-    "path":"folders/ThirdParty/Input/(System).yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/(System).yy",
   },
   "parentObjectId":null,
   "persistent":true,

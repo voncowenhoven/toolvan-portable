@@ -6,7 +6,7 @@
   "name":"__InputClassRebindingHandler",
   "parent":{
     "name":"Classes",
-    "path":"folders/ThirdParty/Input/(System)/Classes.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/(System)/Classes.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

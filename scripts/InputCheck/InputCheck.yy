@@ -6,7 +6,7 @@
   "name":"InputCheck",
   "parent":{
     "name":"Basics",
-    "path":"folders/ThirdParty/Input/Checkers/Basics.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/Checkers/Basics.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

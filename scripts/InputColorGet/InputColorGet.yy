@@ -6,7 +6,7 @@
   "name":"InputColorGet",
   "parent":{
     "name":"Color",
-    "path":"folders/ThirdParty/Input Plug-Ins/Color.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input Plug-Ins/Color.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

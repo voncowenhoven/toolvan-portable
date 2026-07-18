@@ -4,7 +4,7 @@
   "name":"shdImGui",
   "parent":{
     "name":"Shaders",
-    "path":"folders/ThirdParty/ImGM/Shaders.yy",
+    "path":"folders/toolvan-portable/ThirdParty/ImGM/Shaders.yy",
   },
   "resourceType":"GMShader",
   "resourceVersion":"2.0",

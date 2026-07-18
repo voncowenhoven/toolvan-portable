@@ -6,7 +6,7 @@
   "name":"InputVirtualCreate",
   "parent":{
     "name":"Virtual Buttons",
-    "path":"folders/ThirdParty/Input/Virtual Buttons.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/Virtual Buttons.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

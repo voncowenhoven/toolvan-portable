@@ -6,7 +6,7 @@
   "name":"InputMouseDeviceX",
   "parent":{
     "name":"Mouse (& Touch)",
-    "path":"folders/ThirdParty/Input/Mouse (& Touch).yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/Mouse (& Touch).yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

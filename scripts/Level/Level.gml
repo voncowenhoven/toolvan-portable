@@ -277,9 +277,9 @@ function level_init(levelName) {
 	//camera.camera_track_objects(oPlayer);
 	var tilemap = layer_tilemap_get_id("Tiles");
 	
-	var hCells = room_width / TILE_SIZE;
-	var vCells = room_height / TILE_SIZE;
-	global.pathGrid = mp_grid_create(0, 0, hCells, vCells, TILE_SIZE, TILE_SIZE);
+	var hCells = room_width / global.tileSize;
+	var vCells = room_height / global.tileSize;
+	global.pathGrid = mp_grid_create(0, 0, hCells, vCells, global.tileSize, global.tileSize);
 	
 	for (var i = 0; i < hCells; i++) {
 		for (var j = 0; j < vCells; j++) {
@@ -345,7 +345,6 @@ function destroy_everyone_but_the_chosen() {
 
 function editor_notify_reload_level() {
 	if (global.currentLevelPath == "") {
-		con_game("editor_notify_reload_level() was called with no level in context. You should not be seeing this.");
 		return;
 	}
 	

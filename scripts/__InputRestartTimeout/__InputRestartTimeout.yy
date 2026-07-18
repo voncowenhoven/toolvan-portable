@@ -6,7 +6,7 @@
   "name":"__InputRestartTimeout",
   "parent":{
     "name":"(System)",
-    "path":"folders/ThirdParty/Input/(System).yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/(System).yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

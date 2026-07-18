@@ -6,7 +6,7 @@
   "name":"InputPlayerLowestConnectedIndex",
   "parent":{
     "name":"Player",
-    "path":"folders/ThirdParty/Input/Player.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/Player.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

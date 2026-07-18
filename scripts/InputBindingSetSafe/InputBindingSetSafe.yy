@@ -6,7 +6,7 @@
   "name":"InputBindingSetSafe",
   "parent":{
     "name":"Rebinding",
-    "path":"folders/ThirdParty/Input/Rebinding.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/Rebinding.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

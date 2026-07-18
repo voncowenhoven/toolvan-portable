@@ -6,7 +6,7 @@
   "name":"InputManualCollect",
   "parent":{
     "name":"Miscellaneous",
-    "path":"folders/ThirdParty/Input/Miscellaneous.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/Miscellaneous.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

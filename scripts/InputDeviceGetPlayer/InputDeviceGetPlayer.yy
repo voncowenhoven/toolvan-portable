@@ -6,7 +6,7 @@
   "name":"InputDeviceGetPlayer",
   "parent":{
     "name":"Device",
-    "path":"folders/ThirdParty/Input/Device.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/Device.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

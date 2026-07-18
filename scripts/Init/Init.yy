@@ -6,7 +6,7 @@
   "name":"Init",
   "parent":{
     "name":"Game",
-    "path":"folders/Scripts/Game.yy",
+    "path":"folders/toolvan-portable/Scripts/Game.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

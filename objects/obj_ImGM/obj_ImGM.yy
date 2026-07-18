@@ -16,7 +16,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"ImGM",
-    "path":"folders/ThirdParty/ImGM.yy",
+    "path":"folders/toolvan-portable/ThirdParty/ImGM.yy",
   },
   "parentObjectId":null,
   "persistent":true,

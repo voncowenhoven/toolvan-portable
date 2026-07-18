@@ -6,7 +6,7 @@
   "name":"InputVibrateStop",
   "parent":{
     "name":"Actions",
-    "path":"folders/ThirdParty/Input Plug-Ins/Vibration/Actions.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input Plug-Ins/Vibration/Actions.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

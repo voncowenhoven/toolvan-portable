@@ -6,7 +6,7 @@
   "name":"PlayState",
   "parent":{
     "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "path":"folders/toolvan-portable/Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

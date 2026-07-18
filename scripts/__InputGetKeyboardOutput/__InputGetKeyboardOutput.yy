@@ -6,7 +6,7 @@
   "name":"__InputGetKeyboardOutput",
   "parent":{
     "name":"Device Scanning",
-    "path":"folders/ThirdParty/Input/(System)/Device Scanning.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input/(System)/Device Scanning.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

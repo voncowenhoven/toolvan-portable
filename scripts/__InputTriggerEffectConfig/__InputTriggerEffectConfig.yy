@@ -6,7 +6,7 @@
   "name":"__InputTriggerEffectConfig",
   "parent":{
     "name":"Trigger Effects",
-    "path":"folders/ThirdParty/Input Plug-Ins/Trigger Effects.yy",
+    "path":"folders/toolvan-portable/ThirdParty/Input Plug-Ins/Trigger Effects.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
